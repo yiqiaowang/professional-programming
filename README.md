@@ -3,6 +3,7 @@
 # Table of Contents
 
 - [Professional Programming](#professional-programming)
+  - [Contributing to this list](#contributing-to-this-list)
   - [Must-read books](#must-read-books)
   - [Must-read articles](#must-read-articles)
   - [Other general material and list of resources](#other-general-material-and-list-of-resources)
@@ -17,6 +18,7 @@
     - [Coding & code quality](#coding--code-quality)
     - [Computer science](#computer-science)
     - [Databases](#databases)
+    - [Data formats](#data-formats)
     - [Data science](#data-science)
     - [Debugging](#debugging)
     - [Design (visual, UX, UI)](#design-visual-ux-ui)
@@ -103,6 +105,7 @@ There are some free books available, including:
 
 * [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook) - $30. From the author: "Don't have a CS Degree? Neither do I - That's why I wrote this book."
 * [mr-mig/every-programmer-should-know: a collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know)
+* [Famous Laws Of Software Development](https://www.timsommer.be/famous-laws-of-software-development/)
 
 ### Courses
 
@@ -128,6 +131,7 @@ Let's be honest: algorithms can be a pretty dry topic. [This quora question](htt
 * [The tao of programming](http://www.mit.edu/~xela/tao.html): a set of parables about programming.
 * [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 * [Finding Time to Become a Better Developer](https://medium.freecodecamp.org/finding-time-to-become-a-better-developer-eebc154881b2)
+* [Ten minutes a day](https://blog.usejournal.com/ten-minutes-a-day-e2fa1084f924): how Alex Allain wrote a book in less than 200 hours, by writing 10 minutes *every* day.
 
 ### Automation
 
@@ -144,6 +148,7 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
 * [The Conjoined Triangles of Senior-Level Development](http://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html) looks into how to define a senior engineer.
 * [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b), Dan Heller.
 * [Don't Call Yourself a Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), Patrick McKenzie.
+* [On being an Engineering Manager](https://nickmchardy.com/2019/02/on-being-an-engineering-manager.html)
 
 ### Characters sets
 
@@ -169,6 +174,10 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
 * [Zero downtime database migrations](https://blog.rainforestqa.com/2014-06-27-zero-downtime-database-migrations/) (code examples are using Rails but this works great for any programming language)
 * [SQL styleguide](http://www.sqlstyle.guide/)
 * [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266), ACM Queue
+
+### Data formats
+
+* [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md), Google's `libphonenumber`.
 
 ### Data science
 
@@ -210,6 +219,7 @@ Articles:
 * Google's [API Design Guide](https://cloud.google.com/apis/design/): a general guide to design networked API.
 * [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design), Wikipedia.
 * [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE) 🎞, Cheng Lou
+* [The “Bug-O” Notation](https://overreacted.io/the-bug-o-notation/), Dan Abramov
 
 I maintain a [list of antipatterns](https://github.com/charlax/antipatterns) on another repo. This is a highly recommended read.
 
@@ -358,6 +368,7 @@ JavaScript is such a pervasive language that it's almost required learning.
 * [Jargon from the functional programming world](https://github.com/hemanth/functional-programming-jargon)
 * [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.39ax09e4k)
 * [Functional Programming & Haskell](https://www.youtube.com/watch?v=LnX3B9oaKzw): some good reasons to learn FP!
+* [Functional Programming Fundamentals](https://www.matthewgerstman.com/functional-programming-fundamentals/): short introduction to FP and its advantages.
 
 ### Over-engineering
 
@@ -449,6 +460,7 @@ Rob Pike, [Go at Google: Language Design in the Service of Software Engineering]
 * [Eradicating Non-Determinism in Tests](http://www.martinfowler.com/articles/nonDeterminism.html), Martin Fowler
 * ["I get paid for code that works, not for tests"](https://istacee.wordpress.com/2013/09/18/kent-beck-i-get-paid-for-code-that-works-not-for-tests/)
 * [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html), Kostis Kapelonis.
+* [Write tests. Not too many. Mostly integration.](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c) for a contrarian take about unit testing...
 
 ### Tools
 
